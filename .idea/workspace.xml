@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bcb46cc-b429-463c-9c46-d9d2747346b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/Bear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/CritterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/CritterMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CritterPack/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CritterPack/CritterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/CritterMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CritterPack/Giant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Giant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CritterPack/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Lion.java" afterDir="false" />
-    </list>
+    <list default="true" id="8bcb46cc-b429-463c-9c46-d9d2747346b7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
