@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bcb46cc-b429-463c-9c46-d9d2747346b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/Bear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/CritterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrittersGroup/CritterPack/CritterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CritterPack/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CritterPack/CritterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/CritterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CritterPack/Giant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Giant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CritterPack/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CritterPack/Lion.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Rkq5fACINNkYQfPn27vJzv8aLk" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yaniksea000\IdeaProjects\CrittersGroup\src\CritterPack" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CritterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CritterPack.CritterMain" />
+      <module name="CrittersGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CritterPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CritterMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bcb46cc-b429-463c-9c46-d9d2747346b7" name="Default Changelist" comment="" />
+      <created>1570221259073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570221259073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
