@@ -10,14 +10,14 @@ public class Lion extends Critter
     private int colorSwitch;//counter for when to switch colors
     private Color lionColor;//which color am I?
 
-    //          constructor
+    //Constructor
     //Parameters - None
     public Lion()
     {
         colorSwitch = 0;
-    }//end of constructor
+    }
 
-    //          getMove -- What move shall this critter make?
+    //getMove: Determines this creature's move.
     //Parameters - CritterInfo - Passes CritterInfo methods for use within getMove.
     //Returns    - Action - which action shall this critter take?
     public Action getMove(CritterInfo info)
@@ -38,23 +38,22 @@ public class Lion extends Critter
         {
             return Action.HOP;
         }
-    }//end of getMove
+    }
 
-    //          getColor -- Which color shall we print this creature as?
-    //Parameters - None
-    //Returns    - Color (The color to print the creature in)
+    //getColor: Randomly etermines the color of the creature every 3 rounds.
+    //Parameters: None
+    //Returns:
+    //      Color - Selects Red, Green, or Blue.
     public Color getColor()
     {
-
         Random rand = new Random();
 
-
         if (colorSwitch % 3 == 0)
-        { // set new color
+        {
             int x = 0;
             while (x == 0)
             {
-                int i = rand.nextInt(3); //0.Red 1.Green 2.Black
+                int i = rand.nextInt(3); // 0 = Red. 1 = Green. 2 = Blue.
                 if (i == 0 && this.lionColor != Color.RED)
                 {
                     this.lionColor = Color.RED;
@@ -74,14 +73,15 @@ public class Lion extends Critter
 
         }
         return lionColor;
-    }//end of getColor
+    }
 
-    //          toString -- What string should the creature be printed as?
-    //Parameters - None
-    //Returns    - String (the string to print as)
+    //toString: Determines the graphical icon to display this creature.
+    //Parameters: None
+    //Returns:
+    //      String value "L" to display the creature.
     public String toString()
     {
         return "L";
     }//end of toString
 
-}//end of Lion Class
+}
