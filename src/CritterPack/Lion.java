@@ -18,8 +18,10 @@ public class Lion extends Critter
     }
 
     //getMove: Determines this creature's move.
-    //Parameters - CritterInfo - Passes CritterInfo methods for use within getMove.
-    //Returns    - Action - which action shall this critter take?
+    //Parameters:
+    //      CritterInfo - Passes CritterInfo methods for use within getMove.
+    //Returns:
+    //      Action methods placed within if/else structure to determine infect, hop, or movement.
     public Action getMove(CritterInfo info)
     {
         if (info.getFront() == Neighbor.OTHER)
