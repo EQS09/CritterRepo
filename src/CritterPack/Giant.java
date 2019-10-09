@@ -7,7 +7,6 @@ import java.util.Random;
 public class Giant extends Critter
 {
 
-    private String nameMoves;
     private int moves;//how many moves has the giant made? Every six, switch from fee, fie, foo, or fum
 
     //          constructor
